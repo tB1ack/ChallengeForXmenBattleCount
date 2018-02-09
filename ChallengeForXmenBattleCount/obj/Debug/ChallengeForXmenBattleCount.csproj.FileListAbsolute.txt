@@ -1,0 +1,6 @@
+D:\TylerBlackman\The Tech Academy\C# and ASP.Net Course\Challenges\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll.config
+D:\TylerBlackman\The Tech Academy\C# and ASP.Net Course\Challenges\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.dll
+D:\TylerBlackman\The Tech Academy\C# and ASP.Net Course\Challenges\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\bin\ChallengeForXmenBattleCount.pdb
+D:\TylerBlackman\The Tech Academy\C# and ASP.Net Course\Challenges\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.csproj.CoreCompileInputs.cache
+D:\TylerBlackman\The Tech Academy\C# and ASP.Net Course\Challenges\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.dll
+D:\TylerBlackman\The Tech Academy\C# and ASP.Net Course\Challenges\CS-ASP_026-Challenge_Code\ChallengeForXmenBattleCount\ChallengeForXmenBattleCount\obj\Debug\ChallengeForXmenBattleCount.pdb
